@@ -1,4 +1,4 @@
-import { CalculadoraService } from './../services/calculadora.service';
+import { CalculadoraService } from './../services';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { CalculadoraComponent } from './calculadora.component';
